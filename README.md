@@ -2,3 +2,4 @@
 codigo morse
 hexadecimal
 locura
+lechuga
