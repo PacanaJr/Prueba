@@ -1,1 +1,2 @@
 <titulo>Las lechugas en el horizonte</titulo>
+<autor>Aurelio Cantamañanas del Culo</autor>
